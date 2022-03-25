@@ -2,7 +2,7 @@
 //Ngày báo cáo: 24/03/2022
 //Nội dung: 
 *Hiểu và sử dụng được những thẻ HTML như sau:
-- Thẻ <meta>
+- Thẻ meta
 - Thẻ <h1,h2,h3,h4,...>
 - Thẻ <div>
 - Thẻ <form>
