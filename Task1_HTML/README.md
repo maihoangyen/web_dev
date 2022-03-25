@@ -3,28 +3,28 @@
 //Nội dung: 
 *Hiểu và sử dụng được những thẻ HTML như sau:
 - Thẻ meta
-- Thẻ <h1,h2,h3,h4,...>
-- Thẻ <div>
-- Thẻ <form>
-- Thẻ <link rel="">
-- Thẻ <input>
-- Thẻ <label>
-- Thẻ <button>
-- Thẻ <p>
-- Thẻ <b>
+- Thẻ h1,h2,h3,h4
+- Thẻ div
+- Thẻ form
+- Thẻ link rel=""
+- Thẻ input
+- Thẻ label
+- Thẻ button
+- Thẻ p
+- Thẻ b
  *HTML5
-- Thẻ <meta>
-- Thẻ <h1,h2,h3,h4,...>
-- Thẻ <div>
-- Thẻ <article>
-- Thẻ <link rel="">
-- Thẻ <input>
-- Thẻ <img>
-- Thẻ <nav>
-- Thẻ <header>
-- Thẻ <footer>
-- Thẻ <form>
-- Thẻ <menu>
+- Thẻ meta
+- Thẻ h1,h2,h3,h4
+- Thẻ div
+- Thẻ article
+- Thẻ link rel=""
+- Thẻ input
+- Thẻ img
+- Thẻ nav
+- Thẻ header
+- Thẻ footer
+- Thẻ form
+- Thẻ menu
  *CSS
 - margin(top,left,right,bottom)
 - text-align 
