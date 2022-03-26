@@ -86,27 +86,39 @@
       - [Search](/Task1_HTML/search.css)
       - [Upload](/Task1_HTML/upload.css)
       - [Bình luận](/Task1_HTML/comments.css)
-   3.2
-- margin(top,left,right,bottom)
-- text-align 
-- padding
-- width
-- height
-- background
-- float
-- color
-- font-size
-- text-decoration
-- list-style
-- line-height
-- border
-- overflow
-- font-weight
-- outline
-- align-items
-- justify-content
-- display
-- transition
-- position
-- transform
-- cursor
+      
+   3.2 Trong project của em có sử dụng những thẻ CSS như sau: 
+      - margin: Nó sẽ chỉ định lề cho từng phần tử
+         - `margin-top:` Chỉ định lề phía trên
+         - `margin-left:` Chỉ định lề bên trái
+         - `margin-right:` Chỉ định lề bên phải
+         - `margin-bottom:` Chỉ định lề phía dưới
+      - text-align: Nó dùng để căn lề ngang cho văn bản
+         - `text-align:` Căn đều
+         - `text-left:` Căn trái
+         - `text-right:` Căn phải
+      - padding: Tạo khoản cách xung quanh giữa các phần tử
+         - `padding-top:` Chỉ định khoảng cách phía trên
+         - `padding-left:` Chỉ định khoảng cách bên trái
+         - `padding-right:` Chỉ định khoảng cách bên phải
+         - `padding-bottom:` Chỉ định khoảng cách phía dưới
+      - width: Đặt chiều rộng cho từng phần tử
+      - height: Đặt chiều cao cho từng phần tử
+      - background
+      - float
+      - color
+      - font-size
+      - text-decoration
+      - list-style
+      - line-height
+      - border
+      - overflow
+      - font-weight
+      - outline
+      - align-items
+      - justify-content
+      - display
+      - transition
+      - position
+      - transform
+      - cursor
