@@ -1,7 +1,8 @@
 # Họ và Tên: Mai THị Hoàng Yến
 ## Ngày báo cáo: 24/03/2022
 ### Nội dung báo cáo: 
-1. TASK1: Trong project của em có sử dụng những thẻ HTML như sau:
+1. TASK1: Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng HTML trong Project của em như sau:
+   - [Những file e có sử dụng HTML](web_dev/Task1_HTML/login.html)
 - Thẻ meta
 - Thẻ h1,h2,h3,h4
 - Thẻ div
@@ -12,7 +13,7 @@
 - Thẻ button
 - Thẻ p
 - Thẻ b
-2. TASK2: HTML5
+3. TASK2: HTML5
    - Sự khác nhau giữa HTML và HTML5
   Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
   + HTML5 cho phép Javascript chạy ở chế độ nên còn HTML thì không
