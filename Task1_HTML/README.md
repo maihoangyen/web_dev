@@ -1,8 +1,9 @@
 # Họ và Tên: Mai THị Hoàng Yến
 ## Ngày báo cáo: 24/03/2022
 ### Nội dung báo cáo: 
-1. TASK1: Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng HTML trong Project của em như sau:
-   - [Những file e có sử dụng HTML](web_dev./Task1_HTML./login.html)
+1. TASK1: Tìm hiểu về HTML
+   - [Những file e có sử dụng HTML](/../web_dev/Task1_HTML/login.html)
+   -  Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng những thẻ HTML trong Project của em như sau:
 - Thẻ meta
 - Thẻ h1,h2,h3,h4
 - Thẻ div
@@ -13,7 +14,7 @@
 - Thẻ button
 - Thẻ p
 - Thẻ b
-3. TASK2: HTML5
+2. TASK2: Tìm hiểu về HTML5
    - Sự khác nhau giữa HTML và HTML5
   Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
   + HTML5 cho phép Javascript chạy ở chế độ nên còn HTML thì không
@@ -36,7 +37,7 @@
 - Thẻ footer
 - Thẻ form
 - Thẻ menu
-3. TASK3: Trong project của em có sử dụng những thẻ CSS như sau:
+3. TASK3: Tìm hiểu về CSS
 - margin(top,left,right,bottom)
 - text-align 
 - padding
