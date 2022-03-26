@@ -2,6 +2,7 @@
 ## Ngày báo cáo: 24/03/2022
 ### Nội dung báo cáo: 
 1. TASK1: Tìm hiểu về HTML
+
    1.1 Những trang em có sử dụng HTML:
      - [Đăng nhập](/Task1_HTML/login.html)
      - [Đăng ký](/Task1_HTML/signup.php)
@@ -9,6 +10,7 @@
      - [Search](/Task1_HTML/search.php)
      - [Upload](/Task1_HTML/upload.php)
      - [Bình luận](/Task1_HTML/comment.php)
+     
    1.2  Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng những thẻ HTML trong Project của em như sau:
       - Thẻ meta:
         - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML       
