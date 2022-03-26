@@ -11,8 +11,8 @@
      - [Bình luận](/Task1_HTML/comment.php)
    -  Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng những thẻ HTML trong Project của em như sau:
       - Thẻ meta:
-        - <meta charset="UTF-8"> : Chỉ định mã hoá ký tự cho tài liệu HTML       
-        - <meta name="viewport" content="width=device-width, initial-scale=1.0"> : Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
+        * ><meta charset="UTF-8"> : Chỉ định mã hoá ký tự cho tài liệu HTML       
+        * ><meta name="viewport" content="width=device-width, initial-scale=1.0"> : Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
       - Thẻ h1,h2,h3,h4
       - Thẻ div
       - Thẻ form
