@@ -2,7 +2,7 @@
 ## Ngày báo cáo: 24/03/2022
 ### Nội dung báo cáo: 
 1. TASK1: Tìm hiểu về HTML
-   - [Những file e có sử dụng HTML](/../web_dev/Task1_HTML/login.html)
+   - [Những file e có sử dụng HTML](/Task1_HTML/login.html)
    -  Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng những thẻ HTML trong Project của em như sau:
 - Thẻ meta
 - Thẻ h1,h2,h3,h4
