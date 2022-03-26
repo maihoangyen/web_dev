@@ -41,7 +41,7 @@
    
    2.2 Sự khác nhau giữa HTML và HTML5
      - Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
-       - HTML5 cho phép Javascript chạy ở chế độ nên còn HTML thì không
+       - HTML5 cho phép Javascript chạy ở chế độ nền còn HTML thì không
        - HTML5 thì hỗ trợ tất cả các trình duyệt còn HTML thì chỉ hỗ trợ trên các trình duyệt cũ
        - HTML5 nó có thể xử lý những lỗi cú pháp không chính xác
        - Ngoài ra, trong HTML5 có các elements bị điều chỉnh như:
