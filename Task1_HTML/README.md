@@ -104,21 +104,24 @@
          - `padding-bottom:` Chỉ định khoảng cách phía dưới
       - width: Đặt chiều rộng cho từng phần tử
       - height: Đặt chiều cao cho từng phần tử
-      - background
-      - float
-      - color
-      - font-size
-      - text-decoration
-      - list-style
-      - line-height
-      - border
-      - overflow
-      - font-weight
-      - outline
-      - align-items
-      - justify-content
-      - display
-      - transition
-      - position
-      - transform
-      - cursor
+      - background: Đặt màu nền cho phần tử
+      - float: Sử dụng để định vị và định dạng nội dung
+         - `float-left:` Hiển thị bên trái vùng chứa của nó
+         - `float-right:` Hiển thị bên phải vùng chứa của nó
+         - `float-none:` Hiển thị mặc định
+      - color: Đặt màu cho văn bản
+      - font-size: Đặt kích thước cho văn bản
+      - text-decoration: Thêm các dòng trang trí cho văn bản như: gạch ngang hay gạch dưới
+      - list-style: Để đánh dấu mục danh sách
+      - line-height: Dùng để thiết lập chiều cao giữa các dòng
+      - border: Chỉ định loại đường viền để hiển thị
+      - overflow: Trong website của em sử dụng overflow ở dạng hiden để ẩn đi nội dụng văn bản quá nhiều
+      - font-weight: Tô đậm văn bản 
+      - outline: Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
+      - align-items: Căn giữa cho tất cả các mục của phần tử
+      - justify-content: Căn chỉnh các mục có bên trong vùng chứa
+      - display: Xác định loại hiển thị của thành phần
+      - transition: Xác định quá trình chuyển đổi khi có một hành động
+      - position: Trang web em sử dụng position với giá trị là relative để xác định vị trí tuyệt đối cho thành phần
+      - transform: Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
+      - cursor: Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
