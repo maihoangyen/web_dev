@@ -2,7 +2,7 @@
 ## Ngày báo cáo: 24/03/2022
 ### Nội dung báo cáo: 
 1. TASK1: Sau khi đọc lý thuyết và xem những video ví dụ em đã hiểu và sử dụng HTML trong Project của em như sau:
-   - [Những file e có sử dụng HTML](web_dev/Task1_HTML/login.html)
+   - [Những file e có sử dụng HTML](web_dev./Task1_HTML./login.html)
 - Thẻ meta
 - Thẻ h1,h2,h3,h4
 - Thẻ div
