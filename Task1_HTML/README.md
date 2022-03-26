@@ -19,12 +19,12 @@
         - `<h1>:` Dùng để xác định tiêu đề quan trọng 
         - `<h2>:` Dùng để xác định các tiêu đề ít quan trọng hơn
       - Thẻ div:
-        - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đ, chúng ta có thể chứa các html hoặc thiết kế với css 
-      - Thẻ form
+        - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+      - Thẻ form:
         - `<form>:` DÙng để tạo một biểu mẫu cho html 
       - Thẻ link rel="":
         - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
-      - Thẻ input
+      - Thẻ input:
         - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
       - Thẻ label:
         - `<label>:` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
@@ -35,7 +35,11 @@
       - Thẻ b:
         - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
 2. TASK2: Tìm hiểu về HTML5
-   - Sự khác nhau giữa HTML và HTML5
+
+   2.1 Những trang em có sử dụng HTML:
+      - [Trang chủ](/Task1_HTML/index.html)
+   
+   2.2 Sự khác nhau giữa HTML và HTML5
      - Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
        - HTML5 cho phép Javascript chạy ở chế độ nên còn HTML thì không
        - HTML5 thì hỗ trợ tất cả các trình duyệt còn HTML thì chỉ hỗ trợ trên các trình duyệt cũ
@@ -46,19 +50,34 @@
             >**Được chuyển đổi:** applet -> object, acronym -> abbr, dir -> ul.
             
             >**Được lược bỏ:** frameset, frame, noframes.
-   - Trong project của em có sử dụng những thẻ HTML5 như sau:
-      - Thẻ meta
-      - Thẻ h1,h2,h3,h4
-      - Thẻ div
-      - Thẻ article
-      - Thẻ link rel=""
-      - Thẻ input
-      - Thẻ img
-      - Thẻ nav
-      - Thẻ header
-      - Thẻ footer
-      - Thẻ form
-      - Thẻ menu
+   2.3 Trong project của em có sử dụng những thẻ HTML5 như sau:
+      - Thẻ meta:
+        - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
+     - Thẻ h3,h4:
+        - `<h3>:` Dùng để xác định tiêu đề quan trọng 
+        - `<h4>:` Dùng để xác định các tiêu đề ít quan trọng hơn
+      - Thẻ div:
+        - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+      - Thẻ article:
+        - `<article>:` Nó chỉ định một nội dung độc lập. Ví dụ như một bài viết về tin tức, thời sự 
+      - Thẻ link rel="":
+        - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
+      - Thẻ input:
+        - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
+      - Thẻ img:
+        - `<img>:` Dùng để nhúng các hình ảnh mong muốn vào trang web 
+      - Thẻ nav:
+        - `<nav>:` Dùng để tập hợp các liên kết chính 
+      - Thẻ header:
+        - `<header>:` Nó đại diện cho một vùng chứa nội dung giới thiệu hoặc các liên kết chính 
+      - Thẻ footer:
+        - `<footer>:` Nó được dùng để xác định chân trang cho một trang web 
+      - Thẻ form:
+        - `<form>:` DÙng để tạo một biểu mẫu cho html
+      - Thẻ ul:
+        - `<ul>:` Dùng để xác định danh sách không có thứ tự 
+      - Thẻ li:
+        - `<li>:` Dùng để xác định một mục danh sách 
 3. TASK3: Tìm hiểu về CSS
 - margin(top,left,right,bottom)
 - text-align 
