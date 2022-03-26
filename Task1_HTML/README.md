@@ -36,7 +36,7 @@
         - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
 2. TASK2: Tìm hiểu về HTML5
 
-   2.1 Những trang em có sử dụng HTML:
+   2.1 Những trang em có sử dụng HTML5:
       - [Trang chủ](/Task1_HTML/index.html)
    
    2.2 Sự khác nhau giữa HTML và HTML5
