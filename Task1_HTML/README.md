@@ -50,6 +50,7 @@
             >**Được chuyển đổi:** applet -> object, acronym -> abbr, dir -> ul.
             
             >**Được lược bỏ:** frameset, frame, noframes.
+            
    2.3 Trong project của em có sử dụng những thẻ HTML5 như sau:
       - Thẻ meta:
         - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
