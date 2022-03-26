@@ -73,12 +73,20 @@
       - Thẻ footer:
         - `<footer>:` Nó được dùng để xác định chân trang cho một trang web 
       - Thẻ form:
-        - `<form>:` DÙng để tạo một biểu mẫu cho html
+        - `<form>:` Dùng để tạo một biểu mẫu cho html
       - Thẻ ul:
         - `<ul>:` Dùng để xác định danh sách không có thứ tự 
       - Thẻ li:
         - `<li>:` Dùng để xác định một mục danh sách 
 3. TASK3: Tìm hiểu về CSS
+
+   3.1 Những trang em có sử dụng HTML:
+      - [Đăng nhập](/Task1_HTML/login.css)
+      - [Đăng ký](/Task1_HTML/signup.css)
+      - [Search](/Task1_HTML/search.css)
+      - [Upload](/Task1_HTML/upload.css)
+      - [Bình luận](/Task1_HTML/comments.css)
+   3.2
 - margin(top,left,right,bottom)
 - text-align 
 - padding
