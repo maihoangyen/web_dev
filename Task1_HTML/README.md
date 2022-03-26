@@ -1,7 +1,7 @@
-//Họ và Tên: Mai THị Hoàng Yến
-//Ngày báo cáo: 24/03/2022
-//Nội dung: 
-// TASK1: Trong project của em có sử dụng những thẻ HTML như sau:
+# Họ và Tên: Mai THị Hoàng Yến
+## Ngày báo cáo: 24/03/2022
+### Nội dung: 
+#### TASK1: Trong project của em có sử dụng những thẻ HTML như sau:
 - Thẻ meta
 - Thẻ h1,h2,h3,h4
 - Thẻ div
