@@ -34,6 +34,7 @@
    - Có Các thẻ (tag).Ví dụ: `<ul>`, `<li>`, `<div>`,...
  
 1.2 Sự khác nhau giữa HTML và HTML5:
+
   | Đặc điểm || HTML5 | HTML 
   |---|---|---|
   | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
