@@ -34,6 +34,18 @@
    - Có Các thẻ (tag).Ví dụ: `<ul>`, `<li>`, `<div>`,...
  
 1.2 Sự khác nhau giữa HTML và HTML5:
+  <table align="center">
+    <tr>
+        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text</td>
+        <td align="center">More text</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+</table>
 
   | Đặc điểm || HTML5 | HTML 
   |----------|:--------:|:-----|
