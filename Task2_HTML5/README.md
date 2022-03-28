@@ -30,10 +30,10 @@
 #### 1. Tìm hiểu về HTML5 <a name="lythuyet"></a>
 
 1.1 Khái niệm HTML5:<a name="kn"></a> 
-      - Là những thành phần đánh dấu hoặc cú pháp mới
-      - Có Các thẻ (tag). Ví dụ:  <ul>, <li>, <div>,...
+   - Là những thành phần đánh dấu hoặc cú pháp mới
+   - Có Các thẻ (tag). Ví dụ:  <ul>, <li>, <div>,...
  
-2.1 Sự khác nhau giữa HTML và HTML5:
+1.2 Sự khác nhau giữa HTML và HTML5:
  | Đặc điểm || HTML5 | HTML 
  |---|---|---|
  | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
