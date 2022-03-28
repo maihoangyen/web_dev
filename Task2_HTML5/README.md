@@ -31,7 +31,7 @@
 
 1.1 Khái niệm HTML5:<a name="kn"></a> 
    - Là những thành phần đánh dấu hoặc cú pháp mới
-   - Có Các thẻ (tag). Ví dụ:  <ul>, <li>, <div>,...
+   - Có Các thẻ (tag).Ví dụ: `<ul>`, `<li>`, `<div>`,...
  
 1.2 Sự khác nhau giữa HTML và HTML5:
  | Đặc điểm || HTML5 | HTML 
