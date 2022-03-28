@@ -36,7 +36,7 @@
 1.2 Sự khác nhau giữa HTML và HTML5:
 
   | Đặc điểm || HTML5 | HTML 
-  |---|---|---|
+  |----------|:--------:|:-----|
   | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
   |Định vị địa lý | Khó xác định nếu người dùng sử dụng thiết bị di động | Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào |
   |Tương thích trình duyệt | Chỉ hoạt động tốt trong các trình duyệt cũ | Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ |
