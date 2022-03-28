@@ -68,6 +68,7 @@
  - Thẻ b:
    - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
 #### 2. Những trang có sử dụng HTML <a name="thuchanh"></a>
+
 2.1 Trang [Đăng nhập](/Task1_HTML/login.html)<a name="dn"></a>
  - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
  - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
@@ -81,6 +82,7 @@
  - `<input type="">` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị
  - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
  - `<span>`là một vùng chứa nội tuyến được sử dụng để đánh dấu một phần của văn bản hoặc một phần của tài liệu.      
+ 
 2.2 Trang [Đăng ký](/Task1_HTML/signup.php)<a name="dk"></a>
  - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
  - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
@@ -93,6 +95,7 @@
  - `<label>` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
  - `<input type="">` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị
  - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
+ 
 2.3 Trang [Download](/Task1_HTML/download.php)<a name="dow"></a>
  - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML  
  - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
@@ -103,6 +106,7 @@
  - `<th>` xác định ô tiêu đề trong bảng HTML
  - `<tr>` xác định một hàng trong bảng HTML
  - `td` xác định ô dữ liệu chuẩn trong bảng HTML
+ 
 2.4 Trang [Search](/Task1_HTML/search.php)<a name="tk"></a>
  - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
  - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
@@ -110,6 +114,7 @@
  - `<title>` xác định tiêu đề của tài liệu
  - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
  - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+ 
 2.5 Trang [Upload](/Task1_HTML/upload.php)<a name="up"></a>
  - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
  - `<title>` xác định tiêu đề của tài liệu
@@ -121,6 +126,7 @@
  - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
  - `<p>:` Nó giúp chúng ta xác định một đoạn văn
  - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
+ 
 2.6 Trang [Bình luận](/Task1_HTML/comment.php)<a name="cmt"></a>
  - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML  
  - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
