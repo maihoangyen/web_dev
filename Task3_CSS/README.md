@@ -34,7 +34,29 @@
       - Cascading là cách làm việc của CSS.
       - Style Sheets điều khiển cách hiển thị các nội dung của trang web.
    - CSS là một ngôn ngữ dùng để định dạng các phần tử HTML như chỉnh kích cỡ, font chữ, màu chữ, màu nền, đường viền, hình nền,…
-   3.1 Những trang em có sử dụng CSS:
+1.2 Cách sử dụng CSS:<a name="kn"></a>
+   - Chúng ta sẽ có ba cách sử dụng CSS trong HTML là:
+     - Inline: mã CSS viết tại thuộc tính Style của phần tử HTML
+     - Internal: mã CSS trong chính văn bản HTML, nằm trong khối thẻ <style>
+     - External: mã CSS ở một file riêng biệt sau đó nạp vào trong HTML bằng phần tử <link>
+1.3 Vai trò CSS:<a name="kn"></a> 
+   - Chúng ta cần dùng CSS vì nó cho phép bạn định nghĩa kiểu và cách hiển thị các phần tử HTML. Từ đó, CSS sẽ hỗ trợ bạn phân tách nội dung và cách trình bày trang. Nếu chúng ta chỉ sử dụng HTML thì việc định dạng phần tử, kiểu phần tử phải ở cùng một vị trí với phần tử trong văn bản, điều này thật sự khó cho việc bảo trì.
+   - Các định dạng sẽ được loại bỏ khỏi văn bản HTML, định dạng được lưu vào một file CSS khi sử dụng CSS.
+1.4 Các thuộc tính định dạng quan trọng của CSS:<a name="kn"></a>  
+   - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử. Xác định giá trị của thuộc tính theo:
+      - Tên màu
+      - Giá trị Hex
+      - Giá trị RGB
+   - `Background – color:` Thuộc tính thiết lập màu nền cho phần tử. Xác định giá trị thuộc tính theo tên màu, giá trị Hex, giá trị RGB.
+   - `Font – size:` Thiết lập kích cỡ chữ cho phần tử. 
+   - `Font – family:` Thiết lập kiểu chữ cho phần tử.
+   - `Text – align:` Căn lề cho nội dung của phần tử. Có 3 giá trị:
+      - left: căn lề cho nội dung nằm bên trái
+      - center: căn lề cho nội dung nằm ở giữa
+      - right: căn lề cho nội dung nằm bên phải
+   - `Border:` Tạo đường viền bao xung quanh phần tử.
+   - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %.
+     
       - [Đăng nhập](/Task1_HTML/login.css)
       - [Đăng ký](/Task1_HTML/signup.css)
       - [Search](/Task1_HTML/search.css)
