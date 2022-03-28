@@ -10,7 +10,7 @@
       
       1.3 [Những thẻ hay được sử dụng trong HTML5](#the)
      
-  2. [Những trang có sử dụng HTML](#thuchanh)  
+  2. [Những trang có sử dụng HTML5](#thuchanh)  
   
       2.1 [Trang đăng nhập](#dn)
       
