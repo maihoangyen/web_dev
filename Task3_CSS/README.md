@@ -57,12 +57,19 @@
       - right: căn lề cho nội dung nằm bên phải
    - `Border:` Tạo đường viền bao xung quanh phần tử.
    - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %.
- #### 2. Những trang có sử dụng CSS <a name="thuchanh"></a>     
-      - Trang [Đăng nhập](/Task1_HTML/login.css)
-      - Trang [Đăng ký](/Task1_HTML/signup.css)
-      - Trang [Search](/Task1_HTML/search.css)
-      - Trang [Upload](/Task1_HTML/upload.css)
-      - Trang [Bình luận](/Task1_HTML/comments.css)
+ #### 2. Những trang có sử dụng CSS <a name="thuchanh"></a>
+ 2.1 Trang [Đăng nhập](/Task1_HTML/login.css):<a name="kn"></a>
+ 
+ 2.2 Trang [Đăng nhập](/Task1_HTML/login.css):<a name="kn"></a>
+ 
+ 2.3 Trang [Đăng ký](/Task1_HTML/signup.css):<a name="kn"></a>
+ 
+ 2.4 Trang [Search](/Task1_HTML/search.css):<a name="kn"></a>
+ 
+ 2.5 Trang [Upload](/Task1_HTML/upload.css):<a name="kn"></a>
+ 
+ 2.6 Trang [Bình luận](/Task1_HTML/comments.css):<a name="kn"></a>
+     
       
    3.2 Trong project của em có sử dụng những thẻ CSS như sau: 
       - margin: Nó sẽ chỉ định lề cho từng phần tử
