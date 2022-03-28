@@ -75,33 +75,33 @@
 
 1.3 Những thẻ hay được sử dụng trong HTML5:<a name="the"></a> 
 
-     - Thẻ meta:
-        - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
-     - Thẻ h3,h4:
-        - `<h3>:` Dùng để xác định tiêu đề quan trọng 
-        - `<h4>:` Dùng để xác định các tiêu đề ít quan trọng hơn
-      - Thẻ div:
-        - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
-      - Thẻ article:
-        - `<article>:` Nó chỉ định một nội dung độc lập. Ví dụ như một bài viết về tin tức, thời sự 
-      - Thẻ link rel="":
-        - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
-      - Thẻ input:
-        - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
-      - Thẻ img:
-        - `<img>:` Dùng để nhúng các hình ảnh mong muốn vào trang web 
-      - Thẻ nav:
-        - `<nav>:` Dùng để tập hợp các liên kết chính 
-      - Thẻ header:
-        - `<header>:` Nó đại diện cho một vùng chứa nội dung giới thiệu hoặc các liên kết chính 
-      - Thẻ footer:
-        - `<footer>:` Nó được dùng để xác định chân trang cho một trang web 
-      - Thẻ form:
-        - `<form>:` Dùng để tạo một biểu mẫu cho html
-      - Thẻ ul:
-        - `<ul>:` Dùng để xác định danh sách không có thứ tự 
-      - Thẻ li:
-        - `<li>:` Dùng để xác định một mục danh sách 
+  - Thẻ meta:
+    - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
+  - Thẻ h3,h4:
+    - `<h3>:` Dùng để xác định tiêu đề quan trọng 
+    - `<h4>:` Dùng để xác định các tiêu đề ít quan trọng hơn
+  - Thẻ div:
+    - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+  - Thẻ article:
+    - `<article>:` Nó chỉ định một nội dung độc lập. Ví dụ như một bài viết về tin tức, thời sự 
+  - Thẻ link rel="":
+    - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
+  - Thẻ input:
+    - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
+  - Thẻ img:
+    - `<img>:` Dùng để nhúng các hình ảnh mong muốn vào trang web 
+  - Thẻ nav:
+    - `<nav>:` Dùng để tập hợp các liên kết chính 
+  - Thẻ header:
+    - `<header>:` Nó đại diện cho một vùng chứa nội dung giới thiệu hoặc các liên kết chính 
+  - Thẻ footer:
+    - `<footer>:` Nó được dùng để xác định chân trang cho một trang web 
+  - Thẻ form:
+    - `<form>:` Dùng để tạo một biểu mẫu cho html
+  - Thẻ ul:
+    - `<ul>:` Dùng để xác định danh sách không có thứ tự 
+  - Thẻ li:
+    - `<li>:` Dùng để xác định một mục danh sách 
     
 #### 2. Những trang có sử dụng HTML5 <a name="thuchanh"></a>
 
