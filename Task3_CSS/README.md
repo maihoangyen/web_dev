@@ -42,6 +42,7 @@
 1.3 Vai trò CSS:<a name="kn"></a> 
    - Chúng ta cần dùng CSS vì nó cho phép bạn định nghĩa kiểu và cách hiển thị các phần tử HTML. Từ đó, CSS sẽ hỗ trợ bạn phân tách nội dung và cách trình bày trang. Nếu chúng ta chỉ sử dụng HTML thì việc định dạng phần tử, kiểu phần tử phải ở cùng một vị trí với phần tử trong văn bản, điều này thật sự khó cho việc bảo trì.
    - Các định dạng sẽ được loại bỏ khỏi văn bản HTML, định dạng được lưu vào một file CSS khi sử dụng CSS.
+ 
 1.4 Các thuộc tính định dạng quan trọng của CSS:<a name="kn"></a>  
    - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử. Xác định giá trị của thuộc tính theo:
       - Tên màu
@@ -56,12 +57,12 @@
       - right: căn lề cho nội dung nằm bên phải
    - `Border:` Tạo đường viền bao xung quanh phần tử.
    - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %.
-     
-      - [Đăng nhập](/Task1_HTML/login.css)
-      - [Đăng ký](/Task1_HTML/signup.css)
-      - [Search](/Task1_HTML/search.css)
-      - [Upload](/Task1_HTML/upload.css)
-      - [Bình luận](/Task1_HTML/comments.css)
+ #### 2. Những trang có sử dụng CSS <a name="thuchanh"></a>     
+      - Trang [Đăng nhập](/Task1_HTML/login.css)
+      - Trang [Đăng ký](/Task1_HTML/signup.css)
+      - Trang [Search](/Task1_HTML/search.css)
+      - Trang [Upload](/Task1_HTML/upload.css)
+      - Trang [Bình luận](/Task1_HTML/comments.css)
       
    3.2 Trong project của em có sử dụng những thẻ CSS như sau: 
       - margin: Nó sẽ chỉ định lề cho từng phần tử
