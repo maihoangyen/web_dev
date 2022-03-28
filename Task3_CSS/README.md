@@ -1,5 +1,39 @@
-3. TASK3: Tìm hiểu về CSS
-
+# <div align="center"><p> HTML-CSS </p></div>
+ ## Họ và tên: Mai Thị Hoàng Yến
+ ## Ngày báo cáo: Ngày 24/3/2022
+ ### MỤC LỤC
+  1. [Tìm hiểu về CSS](#lythuyet)
+  
+      1.1 [Khái niệm HTML](#kn)
+     
+      1.2 [Quá trình xử lý của HTML](#qt)
+     
+      1.3 [Cấu trúc của một đoạn HTML](#ct)
+     
+      1.4 [Vai trò của của HTML](#vt)
+      
+      1.5 [Một số thẻ hay dùng trong HTML](#ms)
+     
+  2. [Những trang có sử dụng HTML](#thuchanh)  
+  
+      2.1 [Trang đăng nhập](#dn)
+      
+      2.2 [Trang đăng ký](#dk)
+      
+      2.3 [Trang download](#dow)
+      
+      2.4 [Trang tìm kiếm](#tk)
+      
+      2.5 [Trang upload](#up)
+      
+      2.6 [Trang bình luận](#cmt)
+      
+#### 1. Tìm hiểu về CSS <a name="lythuyet"></a>
+1.1 Khái niệm CSS:<a name="kn"></a>
+   - Cascading Style Sheets, hay còn gọi là CSS, là một ngôn ngữ tạo phong cách cho trang Web. Về mặt ngữ nghĩa, ta có thể hiểu như sau:
+      - Cascading là cách làm việc của CSS.
+      - Style Sheets điều khiển cách hiển thị các nội dung của trang web.
+   - CSS là một ngôn ngữ dùng để định dạng các phần tử HTML như chỉnh kích cỡ, font chữ, màu chữ, màu nền, đường viền, hình nền,…
    3.1 Những trang em có sử dụng CSS:
       - [Đăng nhập](/Task1_HTML/login.css)
       - [Đăng ký](/Task1_HTML/signup.css)
