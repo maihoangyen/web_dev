@@ -5,9 +5,9 @@
   1. [Tìm hiểu về HTML](#lythuyet)
   2. [Những trang có sử dụng HTML](#thuchanh)  
 #### 1. Tìm hiểu về HTML <a name="lythuyet"></a>
-   1.1 Khái niệm HTML:
-      - HTML là chữ viết tắt của cụm từ HyperText Markup Language được sử dụng để tạo một trang web, trên một website có thể sẽ chứa nhiều trang và mỗi trang được quy ra là một tài liệu HTML.
-      - Một tập tin HTML sẽ bao gồm các phần tử HTML và được lưu lại dưới đuôi mở rộng là .html hoặc .htm.
+1.1 Khái niệm HTML:
+ - HTML là chữ viết tắt của cụm từ HyperText Markup Language được sử dụng để tạo một trang web, trên một website có thể sẽ chứa nhiều trang và mỗi trang được quy ra là một tài liệu HTML.
+ - Một tập tin HTML sẽ bao gồm các phần tử HTML và được lưu lại dưới đuôi mở rộng là .html hoặc .htm.
    1.2  Quá trình xử lý của HTML:
       - Khi một tập tin HTML được hình thành, việc xử lý nó sẽ do trình duyệt web đảm nhận. Trình duyệt sẽ đóng vai trò đọc hiểu nội dung HTML từ các thẻ bên trong và sẽ chuyển sang dạng văn bản đã được đánh dấu để đọc, nghe hoặc hiểu.
    1.3  Cấu trúc của một đoạn HTML:
