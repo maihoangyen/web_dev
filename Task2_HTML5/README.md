@@ -12,7 +12,7 @@
      
   2. [Những trang có sử dụng HTML5](#thuchanh)  
   
-      2.1 Trang [Trang chủ](#in)
+      2.1 [Trang chủ](#in)
       
 #### 1. Tìm hiểu về HTML5 <a name="lythuyet"></a>
 
