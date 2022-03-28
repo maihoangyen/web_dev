@@ -105,8 +105,9 @@
     
 #### 2. Những trang có sử dụng HTML5 <a name="thuchanh"></a>
 
-  - [Trang chủ](/Task1_HTML/index.html):
-    - Thẻ meta:
+  >- [Trang chủ](/Task1_HTML/index.html):
+  
+  - Thẻ meta:
     - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
   - Thẻ h3,h4:
     - `<h3>:` Dùng để xác định tiêu đề quan trọng 
