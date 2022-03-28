@@ -31,11 +31,13 @@
       - Cascading là cách làm việc của CSS.
       - Style Sheets điều khiển cách hiển thị các nội dung của trang web.
    - CSS là một ngôn ngữ dùng để định dạng các phần tử HTML như chỉnh kích cỡ, font chữ, màu chữ, màu nền, đường viền, hình nền,…
+   
 1.2 Cách sử dụng CSS:<a name="qt"></a>
    - Chúng ta sẽ có ba cách sử dụng CSS trong HTML là:
      - Inline: mã CSS viết tại thuộc tính Style của phần tử HTML
      - Internal: mã CSS trong chính văn bản HTML, nằm trong khối thẻ <style>
      - External: mã CSS ở một file riêng biệt sau đó nạp vào trong HTML bằng phần tử <link>
+ 
 1.3 Vai trò CSS:<a name="ct"></a> 
    - Chúng ta cần dùng CSS vì nó cho phép bạn định nghĩa kiểu và cách hiển thị các phần tử HTML. Từ đó, CSS sẽ hỗ trợ bạn phân tách nội dung và cách trình bày trang. Nếu chúng ta chỉ sử dụng HTML thì việc định dạng phần tử, kiểu phần tử phải ở cùng một vị trí với phần tử trong văn bản, điều này thật sự khó cho việc bảo trì.
    - Các định dạng sẽ được loại bỏ khỏi văn bản HTML, định dạng được lưu vào một file CSS khi sử dụng CSS.
