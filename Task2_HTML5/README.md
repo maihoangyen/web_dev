@@ -36,7 +36,7 @@
 1.2 Sự khác nhau giữa HTML và HTML5:
 <table align="center">
     <tr>
-     <td align="center" background: #ADD8E6;><b>Đặc điểm</b></td>
+     <td align="center" bgcolor="#ADD8E6"><b>Đặc điểm</b></td>
         <td align="center">Định nghĩa</td>
         <td align="center">Định vị địa lý</td>
         <td align="center">Tương thích trình duyệt</td>
