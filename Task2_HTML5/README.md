@@ -36,7 +36,7 @@
 1.2 Sự khác nhau giữa HTML và HTML5:
 <table align="center">
     <tr>
-        <td align="center">Đặc điểm</td>
+     <td align="center"><b>Đặc điểm</b></td>
         <td align="center">Định nghĩa</td>
         <td align="center">Định vị địa lý</td>
         <td align="center">Tương thích trình duyệt</td>
@@ -49,7 +49,7 @@
     </tr>
 
    <tr>
-       <td align="center"> HTML5</td>
+       <td align="center"><b> HTML5</b></td>
        <td align="center">Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website</td>
        <td align="center">Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào</td>
        <td align="center">Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ</td>
@@ -61,7 +61,7 @@
     </tr>
  
    <tr>
-        <td align="center"> HTML</td>
+        <td align="center"><b> HTML</b></td>
         <td align="center">Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website</td>
         <td align="center">Khó xác định nếu người dùng sử dụng thiết bị di động</td>
         <td align="center">Chỉ hoạt động tốt trong các trình duyệt cũ</td>
