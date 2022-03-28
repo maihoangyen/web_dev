@@ -34,7 +34,7 @@
    - Có Các thẻ (tag).Ví dụ: `<ul>`, `<li>`, `<div>`,...
  
 1.2 Sự khác nhau giữa HTML và HTML5:
-  <table align="center">
+ <table align="center">
     <tr>
         <td align="center">Đặc điểm</td>
         <td align="center">Định nghĩa</td>
@@ -47,6 +47,8 @@
         <td align="center">Đồ họa</td>
         
     </tr>
+</table>
+<table align="center">
     <tr>
        <td align="center"> HTML5</td>
        <td align="center">Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website</td>
@@ -58,6 +60,8 @@
         <td align="center">Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client.</td>
         <td align="center">Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG</td>
     </tr>
+ </table>
+ <table align="center">
      <tr>
         <td align="center"> HTML</td>
         <td align="center">Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website</td>
