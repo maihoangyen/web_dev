@@ -105,8 +105,11 @@
     
 #### 2. Những trang có sử dụng HTML5 <a name="thuchanh"></a>
 
-  >- [Trang chủ](/Task1_HTML/index.html):
+  >[Trang chủ](/Task1_HTML/index.html):
   
+  - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+  - `<a>`: Xác định một siêu liên kết, được sử dụng để liên kết từ trang này sang trang khác
+  - `<img>` được sử dụng để nhúng hình ảnh vào trang HTML
   - Thẻ meta:
     - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
   - Thẻ h3,h4:
