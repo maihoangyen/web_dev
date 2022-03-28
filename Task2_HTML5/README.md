@@ -1,7 +1,50 @@
-2.1 Những trang em có sử dụng HTML5:
+# <div align="center"><p> HTML-CSS </p></div>
+ ## Họ và tên: Mai Thị Hoàng Yến
+ ## Ngày báo cáo: Ngày 24/3/2022
+ ### MỤC LỤC
+  1. [Tìm hiểu về HTML5](#lythuyet)
+  
+      1.1 [Khái niệm HTML5](#kn)
+     
+      1.2 [Quá trình xử lý của HTML](#qt)
+     
+      1.3 [Cấu trúc của một đoạn HTML](#ct)
+     
+      1.4 [Vai trò của của HTML](#vt)
+      
+      1.5 [Một số thẻ hay dùng trong HTML](#ms)
+     
+  2. [Những trang có sử dụng HTML](#thuchanh)  
+  
+      2.1 [Trang đăng nhập](#dn)
+      
+      2.2 [Trang đăng ký](#dk)
+      
+      2.3 [Trang download](#dow)
+      
+      2.4 [Trang tìm kiếm](#tk)
+      
+      2.5 [Trang upload](#up)
+      
+      2.6 [Trang bình luận](#cmt)
+#### 1. Tìm hiểu về HTML5 <a name="lythuyet"></a>
+1.1 Khái niệm HTML5:<a name="kn"></a> 
+      - Là những thành phần đánh dấu hoặc cú pháp mới
+      - Có Các thẻ (tag). Ví dụ:  <ul>, <li>, <div>,...
+2.1 Sự khác nhau giữa HTML và HTML5:
+      | Đặc điểm || HTML5 | HTML 
+      |---|---|---|
+      | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
+      |Định vị địa lý | Khó xác định nếu người dùng sử dụng thiết bị di động | Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào |
+      |Tương thích trình duyệt | Chỉ hoạt động tốt trong các trình duyệt cũ | Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ |
+      |Phiên bản | Phiên bản cũ | Phiên bản mới nhất |
+      |Hỗ trợ đa phương tiện | Không hỗ trợ video và âm thanh | Tích hợp sẵn các chức năng hỗ trợ video và âm thanh |
+      |Lưu trữ |Dùng cache của trình duyệt là bộ nhớ tạm thời | Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ. |
+      |Giao tiếp | Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server | Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client. |
+      |Đồ họa | Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ... | Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG |
       - [Trang chủ](/Task1_HTML/index.html)
    
-   2.2 Sự khác nhau giữa HTML và HTML5
+2.2 Sự khác nhau giữa HTML và HTML5
      - Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
        - HTML5 cho phép Javascript chạy ở chế độ nền còn HTML thì không
        - HTML5 thì hỗ trợ tất cả các trình duyệt còn HTML thì chỉ hỗ trợ trên các trình duyệt cũ
