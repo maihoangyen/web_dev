@@ -79,6 +79,7 @@
    - `position:` Trang web em sử dụng position với giá trị là relative để xác định vị trí tuyệt đối cho thành phần
    - `transform:` Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
    - `cursor:` Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
+ 
  2.2 Trang [Đăng ký](/Task1_HTML/signup.css):<a name="kn"></a>
    - `margin:` Nó sẽ chỉ định lề cho từng phần tử
          - `margin-right:` Chỉ định lề bên phải
@@ -100,50 +101,61 @@
    - `align-items:` Căn giữa cho tất cả các mục của phần tử
    - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
    - `outline:` Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
+ 
  2.3 Trang [Search](/Task1_HTML/search.css):<a name="kn"></a>
+   - `font-size:` Đặt kích thước cho văn bản
+   - `width:` Đặt chiều rộng cho từng phần tử
+   - `height:` Đặt chiều cao cho từng phần tử
+   - `border:` Chỉ định loại đường viền để hiển thị
+   - `border-radius:` Xác định bán kính của các góc của phần tử
+   - `box-shadow:` Gắn một hoặc nhiều bóng vào một phần tử
+   - `margin:` Nó sẽ chỉ định lề cho từng phần tử
+   - `padding:` Tạo khoản cách xung quanh giữa các phần tử
+   - `float-left:` Hiển thị bên trái vùng chứa của nó
+   - `margin-top:` Chỉ định lề phía trên
+   - `margin-left:` Chỉ định lề bên trái
+   - `margin-bottom:` Chỉ định lề phía dưới
+   - `text-align:` Nó dùng để căn lề ngang cho văn bản
+   - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
  
  2.4 Trang [Upload](/Task1_HTML/upload.css):<a name="kn"></a>
+   - `box-sizing:` Xác định cách tính chiều rộng và chiều cao của một phần tử: chúng có bao gồm phần đệm và đường viền hay không
+   - `Font – family:` Thiết lập kiểu chữ cho phần tử
+   - `font-size:` Đặt kích thước cho văn bản
+   - `-webkit-font-smoothing:` Được sử dụng trong trình duyệt webkit để đảm bảo văn bản đẹp trên tiêu đề
+   - `Background – color:` Thuộc tính thiết lập màu nền cho phần tử. Xác định giá trị thuộc tính theo tên màu, giá trị Hex, giá trị RGB
+   - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %
+   - `border:` Chỉ định loại đường viền để hiển thị
+   - `display:` Xác định loại hiển thị của thành phần
+   - `margin:` Nó sẽ chỉ định lề cho từng phần tử
+   - `align-items:` Căn giữa cho tất cả các mục của phần tử
+   - `flex:` Để tất cả các mục linh hoạt có cùng độ dài
+   - `padding:` Tạo khoản cách xung quanh giữa các phần tử
+   - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
+   - `font-weight:` Đặt cách các ký tự dày hoặc mỏng trong văn bản sẽ được hiển thị
+   - `text-decoration:` Chỉ định trang trí được thêm vào văn bản
+   - `border-bottom:` Đặt kiểu của đường viền dưới cùng cho các phần tử
+   - `border-radius:` Xác định bán kính của các góc của phần tử
+   - `border-collapse:` Đặt liệu các đường viền bảng nên thu gọn thành một đường viền duy nhất hay được phân tách như trong HTML chuẩn
+   - `vertical-align:` Thiết lập căn chỉnh theo chiều dọc của một phần tử
+   - `align-items:` Căn giữa cho tất cả các mục của phần tử
  
  2.5 Trang [Bình luận](/Task1_HTML/comments.css):<a name="kn"></a>
- 
- 
-     
-      
-   3.2 Trong project của em có sử dụng những thẻ CSS như sau: 
-      - margin: Nó sẽ chỉ định lề cho từng phần tử
-         - `margin-top:` Chỉ định lề phía trên
-         - `margin-left:` Chỉ định lề bên trái
-         - `margin-right:` Chỉ định lề bên phải
-         - `margin-bottom:` Chỉ định lề phía dưới
-      - text-align: Nó dùng để căn lề ngang cho văn bản
-         - `text-align:` Căn đều
-         - `text-left:` Căn trái
-         - `text-right:` Căn phải
-      - padding: Tạo khoản cách xung quanh giữa các phần tử
-         - `padding-top:` Chỉ định khoảng cách phía trên
-         - `padding-left:` Chỉ định khoảng cách bên trái
-         - `padding-right:` Chỉ định khoảng cách bên phải
-         - `padding-bottom:` Chỉ định khoảng cách phía dưới
-      - width: Đặt chiều rộng cho từng phần tử
-      - height: Đặt chiều cao cho từng phần tử
-      - background: Đặt màu nền cho phần tử
-      - float: Sử dụng để định vị và định dạng nội dung
-         - `float-left:` Hiển thị bên trái vùng chứa của nó
-         - `float-right:` Hiển thị bên phải vùng chứa của nó
-         - `float-none:` Hiển thị mặc định
-      - color: Đặt màu cho văn bản
-      - font-size: Đặt kích thước cho văn bản
-      - text-decoration: Thêm các dòng trang trí cho văn bản như: gạch ngang hay gạch dưới
-      - list-style: Để đánh dấu mục danh sách
-      - line-height: Dùng để thiết lập chiều cao giữa các dòng
-      - border: Chỉ định loại đường viền để hiển thị
-      - overflow: Trong website của em sử dụng overflow ở dạng hiden để ẩn đi nội dụng văn bản quá nhiều
-      - font-weight: Tô đậm văn bản 
-      - outline: Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
-      - align-items: Căn giữa cho tất cả các mục của phần tử
-      - justify-content: Căn chỉnh các mục có bên trong vùng chứa
-      - display: Xác định loại hiển thị của thành phần
-      - transition: Xác định quá trình chuyển đổi khi có một hành động
-      - position: Trang web em sử dụng position với giá trị là relative để xác định vị trí tuyệt đối cho thành phần
-      - transform: Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
-      - cursor: Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
+   - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
+   - `display:` Xác định loại hiển thị của thành phần
+   - `border-bottom:` Đặt kiểu của đường viền dưới cùng cho các phần tử
+   - `padding:` Tạo khoản cách xung quanh giữa các phần tử   
+   - `margin-bottom:` Chỉ định lề phía dưới
+   - `Background – color:` Thuộc tính thiết lập màu nền cho phần tử. Xác định giá trị thuộc tính theo tên màu, giá trị Hex, giá trị RGB
+   - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %
+   - `border:` Chỉ định loại đường viền để hiển thị
+   - `font-size:` Đặt kích thước cho văn bản
+   - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
+   - `text-decoration:` Chỉ định trang trí được thêm vào văn bản
+   - `border-radius:` Xác định bán kính của các góc của phần tử
+   - `font-weight:` Đặt cách các ký tự dày hoặc mỏng trong văn bản sẽ được hiển thị
+   - `margin-top:` Chỉ định lề phía trên
+   - `cursor:` Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
+   - `padding-top:` Chỉ định khoảng cách phía trên
+   - `padding-left:` Chỉ định khoảng cách bên trái
+   
