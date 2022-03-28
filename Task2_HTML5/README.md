@@ -69,7 +69,7 @@
         <td align="center">Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ...</td>
    </tr>
 </table>
- - Là những thành phần đánh dấu hoặc cú pháp mới
+- Là những thành phần đánh dấu hoặc cú pháp mới
     - Ngoài ra, trong HTML5 có các elements bị điều chỉnh như:
             >**Được thêm vào:** nav, audio, video, figcaption, time, section, canvas, header, footer, article, nav, output.
             
