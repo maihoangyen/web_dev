@@ -28,20 +28,23 @@
       
       2.6 [Trang bình luận](#cmt)
 #### 1. Tìm hiểu về HTML5 <a name="lythuyet"></a>
+
 1.1 Khái niệm HTML5:<a name="kn"></a> 
       - Là những thành phần đánh dấu hoặc cú pháp mới
       - Có Các thẻ (tag). Ví dụ:  <ul>, <li>, <div>,...
+ 
 2.1 Sự khác nhau giữa HTML và HTML5:
-      | Đặc điểm || HTML5 | HTML 
-      |---|---|---|
-      | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
-      |Định vị địa lý | Khó xác định nếu người dùng sử dụng thiết bị di động | Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào |
-      |Tương thích trình duyệt | Chỉ hoạt động tốt trong các trình duyệt cũ | Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ |
-      |Phiên bản | Phiên bản cũ | Phiên bản mới nhất |
-      |Hỗ trợ đa phương tiện | Không hỗ trợ video và âm thanh | Tích hợp sẵn các chức năng hỗ trợ video và âm thanh |
-      |Lưu trữ |Dùng cache của trình duyệt là bộ nhớ tạm thời | Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ. |
-      |Giao tiếp | Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server | Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client. |
-      |Đồ họa | Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ... | Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG |
+ | Đặc điểm || HTML5 | HTML 
+ |---|---|---|
+ | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
+ |Định vị địa lý | Khó xác định nếu người dùng sử dụng thiết bị di động | Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào |
+ |Tương thích trình duyệt | Chỉ hoạt động tốt trong các trình duyệt cũ | Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ |
+ |Phiên bản | Phiên bản cũ | Phiên bản mới nhất |
+ |Hỗ trợ đa phương tiện | Không hỗ trợ video và âm thanh | Tích hợp sẵn các chức năng hỗ trợ video và âm thanh |
+ |Lưu trữ |Dùng cache của trình duyệt là bộ nhớ tạm thời | Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ. |
+ |Giao tiếp | Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server | Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client. |
+ |Đồ họa | Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ... | Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG |
+ 
       - [Trang chủ](/Task1_HTML/index.html)
    
 2.2 Sự khác nhau giữa HTML và HTML5
