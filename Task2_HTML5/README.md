@@ -44,9 +44,8 @@
         <td align="center"><b>Hỗ trợ đa phương tiện</b></td>
         <td align="center"><b>Lưu trữ</b></td>
         <td align="center"><b>Giao tiếp</b></td>
-        <td align="center"><b>Đồ họa</b></td>
-        
-    </tr>
+        <td align="center"><b>Đồ họa</b></td>  
+   </tr>
    <tr>
        <td align="center"><b> HTML5</b></td>
        <td align="center">Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website</td>
@@ -58,7 +57,6 @@
         <td align="center">Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client.</td>
         <td align="center">Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG</td>
    </tr>
- 
    <tr>
         <td align="center"><b> HTML</b></td>
         <td align="center">Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website</td>
