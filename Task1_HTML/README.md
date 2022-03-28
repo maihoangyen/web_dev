@@ -30,6 +30,7 @@
 1.4  Vai trò của HTML:<a name="vt"></a>
  - HTML là một ngôn ngữ đánh dấu siêu văn bản nên nó sẽ có vai trò xây dựng cấu trúc siêu văn bản trên một website, hoặc khai báo các tập tin kỹ thuật số (media) như hình ảnh, video, nhạc. 
  - Điều đó không có nghĩa là chỉ sử dụng HTML để tạo ra một website mà HTML chỉ đóng một vai trò hình thành trên website.
+ 
 1.5  Một số thẻ hay dùng trong HTML:<a name="ms"></a>
       - Thẻ meta:
         - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML       
