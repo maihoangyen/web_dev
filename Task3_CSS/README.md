@@ -10,7 +10,7 @@
      
       1.3 [Vai trò CSS](#ct)
      
-      1.4 Các thuộc tính định dạng quan trọng của CSS](#vt)
+      1.4 [Các thuộc tính định dạng quan trọng của CSS](#vt)
      
      
   2. [Những trang có sử dụng CSS](#thuchanh)  
