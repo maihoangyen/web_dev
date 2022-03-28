@@ -60,7 +60,7 @@
         <td align="center">Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG</td>
     </tr>
  
-    <tr>
+   <tr>
         <td align="center"> HTML</td>
         <td align="center">Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website</td>
         <td align="center">Khó xác định nếu người dùng sử dụng thiết bị di động</td>
