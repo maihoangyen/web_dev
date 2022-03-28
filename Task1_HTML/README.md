@@ -3,10 +3,15 @@
  ## Ngày báo cáo: Ngày 18/3/2022
  ### MỤC LỤC
   1. [Tìm hiểu về HTML](#lythuyet)
+  
      1.1 [Khái niệm HTML](#kn)
+     
      1.2 [Quá trình xử lý của HTML](#qt)
+     
      1.3 [Cấu trúc của một đoạn HTML](#ct)
+     
      1.4 [Vai trò của của HTML](#vt)
+     
   2. [Những trang có sử dụng HTML](#thuchanh)  
 #### 1. Tìm hiểu về HTML <a name="lythuyet"></a>
 1.1 Khái niệm HTML:<a name="kn"></a>
