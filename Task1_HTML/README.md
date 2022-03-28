@@ -81,7 +81,7 @@
         - `<li>:` Dùng để xác định một mục danh sách 
 3. TASK3: Tìm hiểu về CSS
 
-   3.1 Những trang em có sử dụng HTML:
+   3.1 Những trang em có sử dụng CSS:
       - [Đăng nhập](/Task1_HTML/login.css)
       - [Đăng ký](/Task1_HTML/signup.css)
       - [Search](/Task1_HTML/search.css)
