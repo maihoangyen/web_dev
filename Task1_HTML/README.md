@@ -15,6 +15,19 @@
       1.5 [Một số thẻ hay dùng trong HTML](#ms)
      
   2. [Những trang có sử dụng HTML](#thuchanh)  
+  
+      2.1 [Trang đăng nhập](#dn)
+      
+      2.2 [Trang đăng ký](#dk)
+      
+      2.3 [Trang download](#dow)
+      
+      2.4 [Trang tìm kiếm](#tk)
+      
+      2.5 [Trang upload](#up)
+      
+      2.6 [Trang bình luận](#cmt)
+      
 #### 1. Tìm hiểu về HTML <a name="lythuyet"></a>
 1.1 Khái niệm HTML:<a name="kn"></a>
  - HTML là chữ viết tắt của cụm từ HyperText Markup Language được sử dụng để tạo một trang web, trên một website có thể sẽ chứa nhiều trang và mỗi trang được quy ra là một tài liệu HTML.
@@ -55,11 +68,66 @@
  - Thẻ b:
    - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
 #### 2. Những trang có sử dụng HTML <a name="thuchanh"></a>
- - [Đăng nhập](/Task1_HTML/login.html)
- - [Đăng ký](/Task1_HTML/signup.php)
- - [Download](/Task1_HTML/download.php)
- - [Search](/Task1_HTML/search.php)
- - [Upload](/Task1_HTML/upload.php)
- - [Bình luận](/Task1_HTML/comment.php)
-
-   
+2.1 Trang [Đăng nhập](/Task1_HTML/login.html)<a name="dn"></a>
+ - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
+ - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+ - `<form>` DÙng để tạo một biểu mẫu cho html 
+ - `<h1>` Dùng để xác định tiêu đề quan trọng 
+ - `<label>` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
+ - `<input type="">` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị
+ - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
+ - `<span>`là một vùng chứa nội tuyến được sử dụng để đánh dấu một phần của văn bản hoặc một phần của tài liệu.      
+2.2 Trang [Đăng ký](/Task1_HTML/signup.php)<a name="dk"></a>
+ - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
+ - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+ - `<form>` DÙng để tạo một biểu mẫu cho html 
+ - `<h1>` Dùng để xác định tiêu đề quan trọng 
+ - `<label>` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
+ - `<input type="">` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị
+ - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
+2.3 Trang [Download](/Task1_HTML/download.php)<a name="dow"></a>
+ - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML  
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu 
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<table>` xác định một bảng HTML
+ - `<thead>` được sử dụng để nhóm nội dung tiêu đề trong bảng HTML
+ - `<th>` xác định ô tiêu đề trong bảng HTML
+ - `<tr>` xác định một hàng trong bảng HTML
+ - `td` xác định ô dữ liệu chuẩn trong bảng HTML
+2.4 Trang [Search](/Task1_HTML/search.php)<a name="tk"></a>
+ - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML       
+ - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> ` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+2.5 Trang [Upload](/Task1_HTML/upload.php)<a name="up"></a>
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+ - `<form>` DÙng để tạo một biểu mẫu cho html 
+ - `<h3>` được sử dụng để xác định các tiêu đề HTML 
+ - `<input type="">` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị
+ - `<button>` Nó giúp chúng ta có thể xác định được một nút có thể click vào
+ - `<p>:` Nó giúp chúng ta xác định một đoạn văn
+ - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
+2.6 Trang [Bình luận](/Task1_HTML/comment.php)<a name="cmt"></a>
+ - `<meta charset="UTF-8"> ` Chỉ định mã hoá ký tự cho tài liệu HTML  
+ - `<head>` là vùng chứa siêu dữ liệu (dữ liệu về dữ liệu) và được đặt giữa thẻ `<html>` và thẻ `<body>`
+ - `<title>` xác định tiêu đề của tài liệu 
+ - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
+ - `<div>` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css   
+ - `<h2>` được sử dụng để xác định các tiêu đề HTML 
+ - `<img>` được sử dụng để nhúng hình ảnh vào trang HTML
+ - `<p>:` Nó giúp chúng ta xác định một đoạn văn
+ - `<b>:` Nó sẽ in đậm văn bản cho chúng ta 
