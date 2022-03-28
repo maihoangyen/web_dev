@@ -37,42 +37,40 @@
   <table align="center">
     <tr>
         <td align="center">Đặc điểm</td>
-        <td align="center"> HTML5</td>
-        <td align="center"> HTML</td>
+        <td align="center">Định nghĩa</td>
+        <td align="center">Định vị địa lý</td>
+        <td align="center">Tương thích trình duyệt</td>
+        <td align="center">Phiên bản</td>
+        <td align="center">Hỗ trợ đa phương tiện</td>
+        <td align="center">Lưu trữ</td>
+        <td align="center">Giao tiếp</td>
+        <td align="center">Đồ họa</td>
+        
     </tr>
     <tr>
-       
-        <td align="center">Định nghĩa</td>
-        <td align="center">Định vị địa lý</td>
-        <td align="center">Tương thích trình duyệt</td>
-        <td align="center">Phiên bản</td>
-        <td align="center">Hỗ trợ đa phương tiện</td>
-        <td align="center">Lưu trữ</td>
-        <td align="center">Giao tiếp</td>
-        <td align="center">Đồ họa</td>
+        <td align="center"> HTML5</td>
+        <td align="center">Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website</td>
+        <td align="center">Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào</td>
+        <td align="center">Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ</td>
+        <td align="center">Phiên bản mới nhất</td>
+        <td align="center">Tích hợp sẵn các chức năng hỗ trợ video và âm thanh</td>
+        <td align="center">Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ.</td>
+        <td align="center">Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client.</td>
+        <td align="center">Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG</td>
     </tr>
      <tr>
-        <td align="center">Định nghĩa</td>
-        <td align="center">Định vị địa lý</td>
-        <td align="center">Tương thích trình duyệt</td>
-        <td align="center">Phiên bản</td>
-        <td align="center">Hỗ trợ đa phương tiện</td>
-        <td align="center">Lưu trữ</td>
-        <td align="center">Giao tiếp</td>
-        <td align="center">Đồ họa</td>
+        <td align="center"> HTML</td>
+        <td align="center">Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website</td>
+        <td align="center">Khó xác định nếu người dùng sử dụng thiết bị di động</td>
+        <td align="center">Chỉ hoạt động tốt trong các trình duyệt cũ</td>
+        <td align="center">Phiên bản cũ</td>
+        <td align="center"> Không hỗ trợ video và âm thanh</td>
+        <td align="center">Dùng cache của trình duyệt là bộ nhớ tạm thời</td>
+        <td align="center">Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server</td>
+        <td align="center">Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ...</td>
     </tr>
 </table>
 
-  | Đặc điểm || HTML5 | HTML 
-  |----------|:--------:|:-----|
-  | Định nghĩa |Ngôn ngữ đánh dấu siêu văn bản được dùng để phát triển website | Phiên bản mới nhất của HTML, bổ sung Markup để mô tả cấu trúc và nội dung website |
-  |Định vị địa lý | Khó xác định nếu người dùng sử dụng thiết bị di động | Sử dụng Javascript Geolocation API để theo dõi người dùng bất kể vị trí nào |
-  |Tương thích trình duyệt | Chỉ hoạt động tốt trong các trình duyệt cũ | Hoạt động tốt trong trình duyệt mới và hỗ trợ hiển thị trình duyệt cũ |
-  |Phiên bản | Phiên bản cũ | Phiên bản mới nhất |
-  |Hỗ trợ đa phương tiện | Không hỗ trợ video và âm thanh | Tích hợp sẵn các chức năng hỗ trợ video và âm thanh |
-  |Lưu trữ |Dùng cache của trình duyệt là bộ nhớ tạm thời | Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ. |
-  |Giao tiếp | Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server | Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client. |
-  |Đồ họa | Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ... | Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG |
  
       - [Trang chủ](/Task1_HTML/index.html)
    
