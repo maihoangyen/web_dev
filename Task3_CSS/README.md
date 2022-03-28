@@ -4,29 +4,26 @@
  ### MỤC LỤC
   1. [Tìm hiểu về CSS](#lythuyet)
   
-      1.1 [Khái niệm HTML](#kn)
+      1.1 [Khái niệm CSS](#kn)
      
-      1.2 [Quá trình xử lý của HTML](#qt)
+      1.2 [Cách sử dụng CSS](#qt)
      
-      1.3 [Cấu trúc của một đoạn HTML](#ct)
+      1.3 [Vai trò CSS](#ct)
      
-      1.4 [Vai trò của của HTML](#vt)
-      
-      1.5 [Một số thẻ hay dùng trong HTML](#ms)
+      1.4 Các thuộc tính định dạng quan trọng của CSS](#vt)
      
-  2. [Những trang có sử dụng HTML](#thuchanh)  
+     
+  2. [Những trang có sử dụng CSS](#thuchanh)  
   
       2.1 [Trang đăng nhập](#dn)
       
       2.2 [Trang đăng ký](#dk)
       
-      2.3 [Trang download](#dow)
+      2.3 [Trang tìm kiếm](#tk)
       
-      2.4 [Trang tìm kiếm](#tk)
+      2.4 [Trang upload](#up)
       
-      2.5 [Trang upload](#up)
-      
-      2.6 [Trang bình luận](#cmt)
+      2.5 [Trang bình luận](#cmt)
       
 #### 1. Tìm hiểu về CSS <a name="lythuyet"></a>
 1.1 Khái niệm CSS:<a name="kn"></a>
@@ -34,16 +31,16 @@
       - Cascading là cách làm việc của CSS.
       - Style Sheets điều khiển cách hiển thị các nội dung của trang web.
    - CSS là một ngôn ngữ dùng để định dạng các phần tử HTML như chỉnh kích cỡ, font chữ, màu chữ, màu nền, đường viền, hình nền,…
-1.2 Cách sử dụng CSS:<a name="kn"></a>
+1.2 Cách sử dụng CSS:<a name="qt"></a>
    - Chúng ta sẽ có ba cách sử dụng CSS trong HTML là:
      - Inline: mã CSS viết tại thuộc tính Style của phần tử HTML
      - Internal: mã CSS trong chính văn bản HTML, nằm trong khối thẻ <style>
      - External: mã CSS ở một file riêng biệt sau đó nạp vào trong HTML bằng phần tử <link>
-1.3 Vai trò CSS:<a name="kn"></a> 
+1.3 Vai trò CSS:<a name="ct"></a> 
    - Chúng ta cần dùng CSS vì nó cho phép bạn định nghĩa kiểu và cách hiển thị các phần tử HTML. Từ đó, CSS sẽ hỗ trợ bạn phân tách nội dung và cách trình bày trang. Nếu chúng ta chỉ sử dụng HTML thì việc định dạng phần tử, kiểu phần tử phải ở cùng một vị trí với phần tử trong văn bản, điều này thật sự khó cho việc bảo trì.
    - Các định dạng sẽ được loại bỏ khỏi văn bản HTML, định dạng được lưu vào một file CSS khi sử dụng CSS.
  
-1.4 Các thuộc tính định dạng quan trọng của CSS:<a name="kn"></a>  
+1.4 Các thuộc tính định dạng quan trọng của CSS:<a name="vt"></a>  
    - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử. Xác định giá trị của thuộc tính theo:
       - Tên màu
       - Giá trị Hex
@@ -59,7 +56,7 @@
    - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %.
  #### 2. Những trang có sử dụng CSS <a name="thuchanh"></a>
  
- 2.1 Trang [Đăng nhập](/Task1_HTML/login.css):<a name="kn"></a>
+ 2.1 Trang [Đăng nhập](/Task1_HTML/login.css):<a name="dn"></a>
    - `margin:` Nó sẽ chỉ định lề cho từng phần tử
       - `margin-right:` Chỉ định lề bên phải
       - `margin-bottom:` Chỉ định lề phía dưới
@@ -80,7 +77,7 @@
    - `transform:` Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
    - `cursor:` Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
  
- 2.2 Trang [Đăng ký](/Task1_HTML/signup.css):<a name="kn"></a>
+ 2.2 Trang [Đăng ký](/Task1_HTML/signup.css):<a name="dk"></a>
    - `margin:` Nó sẽ chỉ định lề cho từng phần tử
          - `margin-right:` Chỉ định lề bên phải
          - `margin-bottom:` Chỉ định lề phía dưới
@@ -102,7 +99,7 @@
    - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
    - `outline:` Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
  
- 2.3 Trang [Search](/Task1_HTML/search.css):<a name="kn"></a>
+ 2.3 Trang [Search](/Task1_HTML/search.css):<a name="se"></a>
    - `font-size:` Đặt kích thước cho văn bản
    - `width:` Đặt chiều rộng cho từng phần tử
    - `height:` Đặt chiều cao cho từng phần tử
@@ -118,7 +115,7 @@
    - `text-align:` Nó dùng để căn lề ngang cho văn bản
    - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
  
- 2.4 Trang [Upload](/Task1_HTML/upload.css):<a name="kn"></a>
+ 2.4 Trang [Upload](/Task1_HTML/upload.css):<a name="up"></a>
    - `box-sizing:` Xác định cách tính chiều rộng và chiều cao của một phần tử: chúng có bao gồm phần đệm và đường viền hay không
    - `Font – family:` Thiết lập kiểu chữ cho phần tử
    - `font-size:` Đặt kích thước cho văn bản
@@ -140,7 +137,7 @@
    - `vertical-align:` Thiết lập căn chỉnh theo chiều dọc của một phần tử
    - `align-items:` Căn giữa cho tất cả các mục của phần tử
  
- 2.5 Trang [Bình luận](/Task1_HTML/comments.css):<a name="kn"></a>
+ 2.5 Trang [Bình luận](/Task1_HTML/comments.css):<a name="cmt"></a>
    - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
    - `display:` Xác định loại hiển thị của thành phần
    - `border-bottom:` Đặt kiểu của đường viền dưới cùng cho các phần tử
