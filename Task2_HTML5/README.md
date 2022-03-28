@@ -12,17 +12,8 @@
      
   2. [Những trang có sử dụng HTML5](#thuchanh)  
   
-      2.1 [Trang đăng nhập](#dn)
+      2.1 Trang [Trang chủ](#in)
       
-      2.2 [Trang đăng ký](#dk)
-      
-      2.3 [Trang download](#dow)
-      
-      2.4 [Trang tìm kiếm](#tk)
-      
-      2.5 [Trang upload](#up)
-      
-      2.6 [Trang bình luận](#cmt)
 #### 1. Tìm hiểu về HTML5 <a name="lythuyet"></a>
 
 1.1 Khái niệm HTML5:<a name="kn"></a> 
@@ -105,7 +96,7 @@
     
 #### 2. Những trang có sử dụng HTML5 <a name="thuchanh"></a>
 
-  >[Trang chủ](/Task1_HTML/index.html):
+  >2.1 Trang [Trang chủ](/Task1_HTML/index.html):<a name="in"></a>
   
   - `<link rel="">:` Thường được dùng để liên kết các trang với nhau
   - `<a>`: Xác định một siêu liên kết, được sử dụng để liên kết từ trang này sang trang khác
