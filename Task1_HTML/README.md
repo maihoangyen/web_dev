@@ -32,34 +32,34 @@
  - Điều đó không có nghĩa là chỉ sử dụng HTML để tạo ra một website mà HTML chỉ đóng một vai trò hình thành trên website.
  
 1.5  Một số thẻ hay dùng trong HTML:<a name="ms"></a>
-      - Thẻ meta:
-        - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML       
-        - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> :` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
-      - Thẻ h1,h2:
-        - `<h1>:` Dùng để xác định tiêu đề quan trọng 
-        - `<h2>:` Dùng để xác định các tiêu đề ít quan trọng hơn
-      - Thẻ div:
-        - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
-      - Thẻ form:
-        - `<form>:` DÙng để tạo một biểu mẫu cho html 
-      - Thẻ link rel="":
-        - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
-      - Thẻ input:
-        - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
-      - Thẻ label:
-        - `<label>:` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
-      - Thẻ button:
-        - `<button>:` Nó giúp chúng ta có thể xác định được một nút có thể click vào  
-      - Thẻ p:
-        - `<p>:` Nó giúp chúng ta xác định một đoạn văn
-      - Thẻ b:
-        - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
+ - Thẻ meta:
+   - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML       
+   - `<meta name="viewport" content="width=device-width, initial-scale=1.0"> :` Thiết kế khung nhìn để trang web chúng ta dễ nhìn hơn
+ - Thẻ h1,h2:
+   - `<h1>:` Dùng để xác định tiêu đề quan trọng 
+   - `<h2>:` Dùng để xác định các tiêu đề ít quan trọng hơn
+ - Thẻ div:
+   - `<div>:` Dùng để xác định một phần hoặc một bộ phần nào đó. Trong đó, chúng ta có thể chứa các html hoặc thiết kế với css 
+ - Thẻ form:
+   - `<form>:` DÙng để tạo một biểu mẫu cho html 
+ - Thẻ link rel="":
+   - `<link rel="">:` Thường được dùng để liên kết các trang với nhau 
+ - Thẻ input:
+   - `<input type="">:` Nó sẽ chỉ định từng loại phần tử có trong type để hiển thị  
+ - Thẻ label:
+   - `<label>:` Nó giúp xác định nhãn cho một số phần tử trong html. Đặc biệt là `<input>` 
+ - Thẻ button:
+   - `<button>:` Nó giúp chúng ta có thể xác định được một nút có thể click vào  
+ - Thẻ p:
+   - `<p>:` Nó giúp chúng ta xác định một đoạn văn
+ - Thẻ b:
+   - `<b>:` Nó sẽ in đậm văn bản cho chúng ta
 #### 2. Những trang có sử dụng HTML <a name="thuchanh"></a>
-      - [Đăng nhập](/Task1_HTML/login.html)
-      - [Đăng ký](/Task1_HTML/signup.php)
-      - [Download](/Task1_HTML/download.php)
-      - [Search](/Task1_HTML/search.php)
-      - [Upload](/Task1_HTML/upload.php)
-      - [Bình luận](/Task1_HTML/comment.php)
+ - [Đăng nhập](/Task1_HTML/login.html)
+ - [Đăng ký](/Task1_HTML/signup.php)
+ - [Download](/Task1_HTML/download.php)
+ - [Search](/Task1_HTML/search.php)
+ - [Upload](/Task1_HTML/upload.php)
+ - [Bình luận](/Task1_HTML/comment.php)
 
    
