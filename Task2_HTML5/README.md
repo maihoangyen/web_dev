@@ -58,7 +58,7 @@
        <td align="center">Có thể lưu trữ nhiều nơi như Application cache, SQL database, Web storage.Ngoài ra, chạy JS trong nền bằng JS API có sẵn cho việc lưu trữ</td>
         <td align="center">Hỗ trợ Web Socket cho việc giao tiếp song song giữa Server và Client.</td>
         <td align="center">Đồ họa vector trong HTML5 hỗ trợ mặc định với Canvas và SVG</td>
-    </tr>
+   </tr>
  
    <tr>
         <td align="center"><b> HTML</b></td>
@@ -70,7 +70,7 @@
         <td align="center">Dùng cache của trình duyệt là bộ nhớ tạm thời</td>
         <td align="center">Không hỗ trợ Web Socket cho việc giao tiếp giữa Client với Server</td>
         <td align="center">Đồ họa vector trong HTML phải dùng Sliver light, Adobe Flash, VML ...</td>
-    </tr>
+   </tr>
 </table>
 
  
