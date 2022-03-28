@@ -58,26 +58,27 @@
    - `Border:` Tạo đường viền bao xung quanh phần tử.
    - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %.
  #### 2. Những trang có sử dụng CSS <a name="thuchanh"></a>
+ 
  2.1 Trang [Đăng nhập](/Task1_HTML/login.css):<a name="kn"></a>
-    - `margin:` Nó sẽ chỉ định lề cho từng phần tử
-         - `margin-right:` Chỉ định lề bên phải
-         - `margin-bottom:` Chỉ định lề phía dưới
-    - `padding:` Tạo khoản cách xung quanh giữa các phần tử
-         - `padding-left:` Chỉ định khoảng cách bên trái
-    - `outline:` Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
-    - `text-decoration:` Chỉ định trang trí được thêm vào văn bản
-    - `align-items:` Căn giữa cho tất cả các mục của phần tử
-    - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
-    - `display:` Xác định loại hiển thị của thành phần
-    - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %
-    - `border-radius:` Xác định bán kính của các góc của phần tử
-    - `Background:` Thuộc tính thiết lập màu nền cho phần tử. Xác định giá trị thuộc tính theo tên màu, giá trị Hex, giá trị RGB
-    - `background-size:`Chỉ định kích thước của hình nền
-    - `transition:` Xác định quá trình chuyển đổi khi có một hành động
-    - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
-    - `position:` Trang web em sử dụng position với giá trị là relative để xác định vị trí tuyệt đối cho thành phần
-    - `transform:` Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
-    - `cursor:` Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
+   - `margin:` Nó sẽ chỉ định lề cho từng phần tử
+      - `margin-right:` Chỉ định lề bên phải
+      - `margin-bottom:` Chỉ định lề phía dưới
+   - `padding:` Tạo khoản cách xung quanh giữa các phần tử
+      - `padding-left:` Chỉ định khoảng cách bên trái
+   - `outline:` Nó là một đường kẻ xung quanh phần tử thường nằm ngoài boder
+   - `text-decoration:` Chỉ định trang trí được thêm vào văn bản
+   - `align-items:` Căn giữa cho tất cả các mục của phần tử
+   - `justify-content:` Căn chỉnh các mục có bên trong vùng chứa
+   - `display:` Xác định loại hiển thị của thành phần
+   - `Width, height:` Thiết lập chiều rộng và chiều cao cho phần tử. Có thể xác định theo đơn vị px hoặc %
+   - `border-radius:` Xác định bán kính của các góc của phần tử
+   - `Background:` Thuộc tính thiết lập màu nền cho phần tử. Xác định giá trị thuộc tính theo tên màu, giá trị Hex, giá trị RGB
+   - `background-size:`Chỉ định kích thước của hình nền
+   - `transition:` Xác định quá trình chuyển đổi khi có một hành động
+   - `color:` Thuộc tính này dùng để thiết lập màu chữ cho phần tử
+   - `position:` Trang web em sử dụng position với giá trị là relative để xác định vị trí tuyệt đối cho thành phần
+   - `transform:` Xác định một chuyển đổi 2 chiều hoặc 3 chiều 
+   - `cursor:` Hiển thị con trỏ chuột khi di chuyển con trỏ chuột tới thành phần
  2.2 Trang [Đăng ký](/Task1_HTML/signup.css):<a name="kn"></a>
    - `margin:` Nó sẽ chỉ định lề cho từng phần tử
          - `margin-right:` Chỉ định lề bên phải
