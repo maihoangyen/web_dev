@@ -6,13 +6,9 @@
   
       1.1 [Khái niệm HTML5](#kn)
      
-      1.2 [Quá trình xử lý của HTML](#qt)
-     
-      1.3 [Cấu trúc của một đoạn HTML](#ct)
-     
-      1.4 [Vai trò của của HTML](#vt)
+      1.2 [Sự khác nhau giữa HTML và HTML5](#qt)
       
-      1.5 [Một số thẻ hay dùng trong HTML](#ms)
+      1.3 [Những thẻ hay được sử dụng trong HTML5](#the)
      
   2. [Những trang có sử dụng HTML](#thuchanh)  
   
@@ -33,7 +29,7 @@
    - Là những thành phần đánh dấu hoặc cú pháp mới
    - Có Các thẻ (tag).Ví dụ: `<ul>`, `<li>`, `<div>`,...
  
-1.2 Sự khác nhau giữa HTML và HTML5:
+1.2 Sự khác nhau giữa HTML và HTML5:<a name="qt"></a> 
 <table align="center">
    <tr>
      <td align="center" ><b>Đặc điểm</b></td>
@@ -70,25 +66,16 @@
    </tr>
 </table>
 
-  - Là những thành phần đánh dấu hoặc cú pháp mới
   - Ngoài ra, trong HTML5 có các elements bị điều chỉnh như:
     >**Được thêm vào:** nav, audio, video, figcaption, time, section, canvas, header, footer, article, nav, output.
             
     >**Được chuyển đổi:** applet -> object, acronym -> abbr, dir -> ul.
             
     >**Được lược bỏ:** frameset, frame, noframes.
- 
-      - [Trang chủ](/Task1_HTML/index.html)
-   
-2.2 Sự khác nhau giữa HTML và HTML5
-     - Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
-       - HTML5 cho phép Javascript chạy ở chế độ nền còn HTML thì không
-       - HTML5 thì hỗ trợ tất cả các trình duyệt còn HTML thì chỉ hỗ trợ trên các trình duyệt cũ
-       - HTML5 nó có thể xử lý những lỗi cú pháp không chính xác
-       
-            
-   2.3 Trong project của em có sử dụng những thẻ HTML5 như sau:
-      - Thẻ meta:
+
+1.3 Những thẻ hay được sử dụng trong HTML5:<a name="the"></a> 
+
+     - Thẻ meta:
         - `<meta charset="UTF-8"> :` Chỉ định mã hoá ký tự cho tài liệu HTML    
      - Thẻ h3,h4:
         - `<h3>:` Dùng để xác định tiêu đề quan trọng 
@@ -115,3 +102,17 @@
         - `<ul>:` Dùng để xác định danh sách không có thứ tự 
       - Thẻ li:
         - `<li>:` Dùng để xác định một mục danh sách 
+    
+#### 2. Những trang có sử dụng HTML5 <a name="thuchanh"></a>
+
+      - [Trang chủ](/Task1_HTML/index.html)
+   
+2.2 Sự khác nhau giữa HTML và HTML5
+     - Theo em tìm hiểu thì HTML5 nó sẽ có những đặc điểm khác so với HTML là:
+       - HTML5 cho phép Javascript chạy ở chế độ nền còn HTML thì không
+       - HTML5 thì hỗ trợ tất cả các trình duyệt còn HTML thì chỉ hỗ trợ trên các trình duyệt cũ
+       - HTML5 nó có thể xử lý những lỗi cú pháp không chính xác
+       
+            
+   2.3 Trong project của em có sử dụng những thẻ HTML5 như sau:
+      
