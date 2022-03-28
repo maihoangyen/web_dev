@@ -19,7 +19,7 @@
       
       2.2 [Trang đăng ký](#dk)
       
-      2.3 [Trang tìm kiếm](#tk)
+      2.3 [Trang tìm kiếm](#se)
       
       2.4 [Trang upload](#up)
       
