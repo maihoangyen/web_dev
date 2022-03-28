@@ -37,6 +37,11 @@
   <table align="center">
     <tr>
         <td align="center">Đặc điểm</td>
+        <td align="center"> HTML5</td>
+        <td align="center"> HTML</td>
+    </tr>
+    <tr>
+       
         <td align="center">Định nghĩa</td>
         <td align="center">Định vị địa lý</td>
         <td align="center">Tương thích trình duyệt</td>
@@ -46,15 +51,15 @@
         <td align="center">Giao tiếp</td>
         <td align="center">Đồ họa</td>
     </tr>
-    <tr>
-        <td align="center"> HTML5</td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
-    </tr>
      <tr>
-        <td align="center"> HTML</td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
+        <td align="center">Định nghĩa</td>
+        <td align="center">Định vị địa lý</td>
+        <td align="center">Tương thích trình duyệt</td>
+        <td align="center">Phiên bản</td>
+        <td align="center">Hỗ trợ đa phương tiện</td>
+        <td align="center">Lưu trữ</td>
+        <td align="center">Giao tiếp</td>
+        <td align="center">Đồ họa</td>
     </tr>
 </table>
 
